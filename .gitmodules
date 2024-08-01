@@ -1,0 +1,360 @@
+[submodule "2024/08/01/Grants-Program"]
+	path = 2024/08/01/Grants-Program
+	url = https://github.com/w3f/Grants-Program
+[submodule "2024/08/01/grant-program"]
+	path = 2024/08/01/grant-program
+	url = https://github.com/vechain/grant-program
+[submodule "2024/08/01/General-Grants-Program"]
+	path = 2024/08/01/General-Grants-Program
+	url = https://github.com/w3f/General-Grants-Program
+[submodule "2024/08/01/Grant-Milestone-Delivery"]
+	path = 2024/08/01/Grant-Milestone-Delivery
+	url = https://github.com/w3f/Grant-Milestone-Delivery
+[submodule "2024/08/01/grants-stack"]
+	path = 2024/08/01/grants-stack
+	url = https://github.com/gitcoinco/grants-stack
+[submodule "2024/08/01/statements"]
+	path = 2024/08/01/statements
+	url = https://github.com/RILAB/statements
+[submodule "2024/08/01/grants-program"]
+	path = 2024/08/01/grants-program
+	url = https://github.com/stacksgov/grants-program
+[submodule "2024/08/01/kcc-grants"]
+	path = 2024/08/01/kcc-grants
+	url = https://github.com/kcc-community/kcc-grants
+[submodule "2024/08/01/OnBoard"]
+	path = 2024/08/01/OnBoard
+	url = https://github.com/hackclub/OnBoard
+[submodule "2024/08/01/research-grants"]
+	path = 2024/08/01/research-grants
+	url = https://github.com/protocol/research-grants
+[submodule "2024/08/01/Ecosystem-Grants"]
+	path = 2024/08/01/Ecosystem-Grants
+	url = https://github.com/use-inkubator/Ecosystem-Grants
+[submodule "2024/08/01/Grants"]
+	path = 2024/08/01/Grants
+	url = https://github.com/scrtlabs/Grants
+[submodule "2024/08/01/Travel-Grants"]
+	path = 2024/08/01/Travel-Grants
+	url = https://github.com/mayank408/Travel-Grants
+[submodule "2024/08/01/GitHub-Education-Hackathon-Grant-Fund-2023"]
+	path = 2024/08/01/GitHub-Education-Hackathon-Grant-Fund-2023
+	url = https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023
+[submodule "2024/08/01/dgrants"]
+	path = 2024/08/01/dgrants
+	url = https://github.com/dcgtc/dgrants
+[submodule "2024/08/01/grants"]
+	path = 2024/08/01/grants
+	url = https://github.com/dewi-alliance/grants
+[submodule "2024/08/01/Grant-projects"]
+	path = 2024/08/01/Grant-projects
+	url = https://github.com/binancex/Grant-projects
+[submodule "2024/08/01/developer-grants"]
+	path = 2024/08/01/developer-grants
+	url = https://github.com/onflow/developer-grants
+[submodule "2024/08/01/grant-framework"]
+	path = 2024/08/01/grant-framework
+	url = https://github.com/XPRNetwork/grant-framework
+[submodule "2024/08/01/baseline-grants"]
+	path = 2024/08/01/baseline-grants
+	url = https://github.com/ethereum-oasis-op/baseline-grants
+[submodule "2024/08/01/grants-landing-template"]
+	path = 2024/08/01/grants-landing-template
+	url = https://github.com/g0v/grants-landing-template
+[submodule "2024/08/01/grant-milestones"]
+	path = 2024/08/01/grant-milestones
+	url = https://github.com/eosnetworkfoundation/grant-milestones
+[submodule "2024/08/01/technical-grants"]
+	path = 2024/08/01/technical-grants
+	url = https://github.com/kadena-io/technical-grants
+[submodule "2024/08/01/grant-rfps"]
+	path = 2024/08/01/grant-rfps
+	url = https://github.com/dfinity/grant-rfps
+[submodule "2024/08/01/grantmakers.github.io"]
+	path = 2024/08/01/grantmakers.github.io
+	url = https://github.com/grantmakers/grantmakers.github.io
+[submodule "2024/08/01/Concordium-Free-Open-Grants-Program"]
+	path = 2024/08/01/Concordium-Free-Open-Grants-Program
+	url = https://github.com/Concordium/Concordium-Free-Open-Grants-Program
+[submodule "2024/08/01/usdr-gost"]
+	path = 2024/08/01/usdr-gost
+	url = https://github.com/usdigitalresponse/usdr-gost
+[submodule "2024/08/01/diversify-me"]
+	path = 2024/08/01/diversify-me
+	url = https://github.com/FrancesCoronel/diversify-me
+[submodule "2024/08/01/AutoViz"]
+	path = 2024/08/01/AutoViz
+	url = https://github.com/AutoViML/AutoViz
+[submodule "2024/08/01/Core-Grants"]
+	path = 2024/08/01/Core-Grants
+	url = https://github.com/MinaFoundation/Core-Grants
+[submodule "2024/08/01/devgrants"]
+	path = 2024/08/01/devgrants
+	url = https://github.com/ipfs/devgrants
+[submodule "2024/08/01/GrantGuides"]
+	path = 2024/08/01/GrantGuides
+	url = https://github.com/SFDO-Community/GrantGuides
+[submodule "2024/08/01/fastpat"]
+	path = 2024/08/01/fastpat
+	url = https://github.com/iamlemec/fastpat
+[submodule "2024/08/01/radworks-grants"]
+	path = 2024/08/01/radworks-grants
+	url = https://github.com/better-internet/radworks-grants
+[submodule "2024/08/01/stc"]
+	path = 2024/08/01/stc
+	url = https://github.com/nexus-stc/stc
+[submodule "2024/08/01/halogrants"]
+	path = 2024/08/01/halogrants
+	url = https://github.com/iotexproject/halogrants
+[submodule "2024/08/01/grant-hub"]
+	path = 2024/08/01/grant-hub
+	url = https://github.com/gitcoinco/grant-hub
+[submodule "2024/08/01/meson-grants"]
+	path = 2024/08/01/meson-grants
+	url = https://github.com/daqnext/meson-grants
+[submodule "2024/08/01/mina-grants"]
+	path = 2024/08/01/mina-grants
+	url = https://github.com/MinaProtocol/mina-grants
+[submodule "2024/08/01/grants-process"]
+	path = 2024/08/01/grants-process
+	url = https://github.com/ssb-junkyard/grants-process
+[submodule "2024/08/01/BulkTransactions"]
+	path = 2024/08/01/BulkTransactions
+	url = https://github.com/gitcoinco/BulkTransactions
+[submodule "2024/08/01/gandhi"]
+	path = 2024/08/01/gandhi
+	url = https://github.com/mike-marcacci/gandhi
+[submodule "2024/08/01/grantzilla"]
+	path = 2024/08/01/grantzilla
+	url = https://github.com/on-site/grantzilla
+[submodule "2024/08/01/simpler-grants-gov"]
+	path = 2024/08/01/simpler-grants-gov
+	url = https://github.com/HHS/simpler-grants-gov
+[submodule "2024/08/01/postdoc-funding-schemes"]
+	path = 2024/08/01/postdoc-funding-schemes
+	url = https://github.com/asntech/postdoc-funding-schemes
+[submodule "2024/08/01/ecosystem-fund-grants"]
+	path = 2024/08/01/ecosystem-fund-grants
+	url = https://github.com/gnolang/ecosystem-fund-grants
+[submodule "2024/08/01/robonomics-grant-program"]
+	path = 2024/08/01/robonomics-grant-program
+	url = https://github.com/airalab/robonomics-grant-program
+[submodule "2024/08/01/flock"]
+	path = 2024/08/01/flock
+	url = https://github.com/aragon/flock
+[submodule "2024/08/01/grant-download-permissions-for-past-woocommerce-orders"]
+	path = 2024/08/01/grant-download-permissions-for-past-woocommerce-orders
+	url = https://github.com/woocommerce/grant-download-permissions-for-past-woocommerce-orders
+[submodule "2024/08/01/OGP"]
+	path = 2024/08/01/OGP
+	url = https://github.com/opynfinance/OGP
+[submodule "2024/08/01/HealthCare-Insurance-Ethereum"]
+	path = 2024/08/01/HealthCare-Insurance-Ethereum
+	url = https://github.com/Rishabh42/HealthCare-Insurance-Ethereum
+[submodule "2024/08/01/dfg"]
+	path = 2024/08/01/dfg
+	url = https://github.com/hoelzer/dfg
+[submodule "2024/08/01/grantr"]
+	path = 2024/08/01/grantr
+	url = https://github.com/grantrapp/grantr
+[submodule "2024/08/01/fund-my-project"]
+	path = 2024/08/01/fund-my-project
+	url = https://github.com/sakofchit/fund-my-project
+[submodule "2024/08/01/Phinch"]
+	path = 2024/08/01/Phinch
+	url = https://github.com/PitchInteractiveInc/Phinch
+[submodule "2024/08/01/Young-Money"]
+	path = 2024/08/01/Young-Money
+	url = https://github.com/KaiLabs/Young-Money
+[submodule "2024/08/01/Grants_notes"]
+	path = 2024/08/01/Grants_notes
+	url = https://github.com/mdozmorov/Grants_notes
+[submodule "2024/08/01/ajna-grants"]
+	path = 2024/08/01/ajna-grants
+	url = https://github.com/ajna-finance/ajna-grants
+[submodule "2024/08/01/curve-docs-funding-proposal"]
+	path = 2024/08/01/curve-docs-funding-proposal
+	url = https://github.com/bout3fiddy/curve-docs-funding-proposal
+[submodule "2024/08/01/sDAO"]
+	path = 2024/08/01/sDAO
+	url = https://github.com/Aman-zishan/sDAO
+[submodule "2024/08/01/commons-funding"]
+	path = 2024/08/01/commons-funding
+	url = https://github.com/fission-codes/commons-funding
+[submodule "2024/08/01/stockpile-lite"]
+	path = 2024/08/01/stockpile-lite
+	url = https://github.com/StockpileLabs/stockpile-lite
+[submodule "2024/08/01/grant_db"]
+	path = 2024/08/01/grant_db
+	url = https://github.com/almugabo/grant_db
+[submodule "2024/08/01/funded_grant_database"]
+	path = 2024/08/01/funded_grant_database
+	url = https://github.com/AndrewPoppe/funded_grant_database
+[submodule "2024/08/01/decentralized-grants"]
+	path = 2024/08/01/decentralized-grants
+	url = https://github.com/stacksgov/decentralized-grants
+[submodule "2024/08/01/knowhow"]
+	path = 2024/08/01/knowhow
+	url = https://github.com/open-life-science/knowhow
+[submodule "2024/08/01/lang-DAO-grants"]
+	path = 2024/08/01/lang-DAO-grants
+	url = https://github.com/near/lang-DAO-grants
+[submodule "2024/08/01/NIH-grants"]
+	path = 2024/08/01/NIH-grants
+	url = https://github.com/raom1/NIH-grants
+[submodule "2024/08/01/nih-awards"]
+	path = 2024/08/01/nih-awards
+	url = https://github.com/yuwie10/nih-awards
+[submodule "2024/08/01/FreeFunding"]
+	path = 2024/08/01/FreeFunding
+	url = https://github.com/harshsikka/FreeFunding
+[submodule "2024/08/01/Tracking-NIH-Grants"]
+	path = 2024/08/01/Tracking-NIH-Grants
+	url = https://github.com/lilyvalley/Tracking-NIH-Grants
+[submodule "2024/08/01/grantcost"]
+	path = 2024/08/01/grantcost
+	url = https://github.com/dbann/grantcost
+[submodule "2024/08/01/grant-proposals"]
+	path = 2024/08/01/grant-proposals
+	url = https://github.com/slonigiraf/grant-proposals
+[submodule "2024/08/01/Cinch"]
+	path = 2024/08/01/Cinch
+	url = https://github.com/SLNC-DIMP/Cinch
+[submodule "2024/08/01/funding_analysis"]
+	path = 2024/08/01/funding_analysis
+	url = https://github.com/Lcarey/funding_analysis
+[submodule "2024/08/01/funding"]
+	path = 2024/08/01/funding
+	url = https://github.com/interchainio/funding
+[submodule "2024/08/01/ogrants"]
+	path = 2024/08/01/ogrants
+	url = https://github.com/weecology/ogrants
+[submodule "2024/08/01/open-grants"]
+	path = 2024/08/01/open-grants
+	url = https://github.com/raid-guild/open-grants
+[submodule "2024/08/01/solana-grants"]
+	path = 2024/08/01/solana-grants
+	url = https://github.com/solana-developers/solana-grants
+[submodule "2024/08/01/mStable-dev-grants"]
+	path = 2024/08/01/mStable-dev-grants
+	url = https://github.com/mstable/mStable-dev-grants
+[submodule "2024/08/01/conviction-funding-pilot"]
+	path = 2024/08/01/conviction-funding-pilot
+	url = https://github.com/aragon/conviction-funding-pilot
+[submodule "2024/08/01/QFgrant"]
+	path = 2024/08/01/QFgrant
+	url = https://github.com/zhangjiannan/QFgrant
+[submodule "2024/08/01/cubik"]
+	path = 2024/08/01/cubik
+	url = https://github.com/arihantbansal/cubik
+[submodule "2024/08/01/OutboundFundsModule"]
+	path = 2024/08/01/OutboundFundsModule
+	url = https://github.com/SalesforceFoundation/OutboundFundsModule
+[submodule "2024/08/01/topos-community-fund"]
+	path = 2024/08/01/topos-community-fund
+	url = https://github.com/toposware/topos-community-fund
+[submodule "2024/08/01/ai-for-grant-writing"]
+	path = 2024/08/01/ai-for-grant-writing
+	url = https://github.com/eseckel/ai-for-grant-writing
+[submodule "2024/08/01/dn-institute"]
+	path = 2024/08/01/dn-institute
+	url = https://github.com/1712n/dn-institute
+[submodule "2024/08/01/GrantGPT"]
+	path = 2024/08/01/GrantGPT
+	url = https://github.com/glo26/GrantGPT
+[submodule "2024/08/01/grantLLM"]
+	path = 2024/08/01/grantLLM
+	url = https://github.com/benfield97/grantLLM
+[submodule "2024/08/01/ai-autofill"]
+	path = 2024/08/01/ai-autofill
+	url = https://github.com/chandrasuda/ai-autofill
+[submodule "2024/08/01/MetaGrant"]
+	path = 2024/08/01/MetaGrant
+	url = https://github.com/Deylab999/MetaGrant
+[submodule "2024/08/01/climategrantLLM"]
+	path = 2024/08/01/climategrantLLM
+	url = https://github.com/auddithio/climategrantLLM
+[submodule "2024/08/01/grants-stack-search"]
+	path = 2024/08/01/grants-stack-search
+	url = https://github.com/bard/grants-stack-search
+[submodule "2024/08/01/gg20"]
+	path = 2024/08/01/gg20
+	url = https://github.com/rohitmalekar/gg20
+[submodule "2024/08/01/Shiva"]
+	path = 2024/08/01/Shiva
+	url = https://github.com/openaisolutions/Shiva
+[submodule "2024/08/01/PolicyPro"]
+	path = 2024/08/01/PolicyPro
+	url = https://github.com/stephamophys/PolicyPro
+[submodule "2024/08/01/allobook"]
+	path = 2024/08/01/allobook
+	url = https://github.com/gitcoinco/allobook
+[submodule "2024/08/01/gitcoinco"]
+	path = 2024/08/01/gitcoinco
+	url = https://github.com/gitcoinco/gitcoinco
+[submodule "2024/08/01/gtc"]
+	path = 2024/08/01/gtc
+	url = https://github.com/gitcoinco/gtc
+[submodule "2024/08/01/web"]
+	path = 2024/08/01/web
+	url = https://github.com/gitcoinco/web
+[submodule "2024/08/01/collections"]
+	path = 2024/08/01/collections
+	url = https://github.com/gitcoinco/collections
+[submodule "2024/08/01/allo-starter-kit"]
+	path = 2024/08/01/allo-starter-kit
+	url = https://github.com/gitcoinco/allo-starter-kit
+[submodule "2024/08/01/grants-stack-indexer"]
+	path = 2024/08/01/grants-stack-indexer
+	url = https://github.com/gitcoinco/grants-stack-indexer
+[submodule "2024/08/01/easy-retro-pgf"]
+	path = 2024/08/01/easy-retro-pgf
+	url = https://github.com/gitcoinco/easy-retro-pgf
+[submodule "2024/08/01/gitcoin-chain-data"]
+	path = 2024/08/01/gitcoin-chain-data
+	url = https://github.com/gitcoinco/gitcoin-chain-data
+[submodule "2024/08/01/qf-calculator"]
+	path = 2024/08/01/qf-calculator
+	url = https://github.com/gitcoinco/qf-calculator
+[submodule "2024/08/01/allo-multi-round-checkout"]
+	path = 2024/08/01/allo-multi-round-checkout
+	url = https://github.com/gitcoinco/allo-multi-round-checkout
+[submodule "2024/08/01/easyrpgf-docs"]
+	path = 2024/08/01/easyrpgf-docs
+	url = https://github.com/gitcoinco/easyrpgf-docs
+[submodule "2024/08/01/grants-stack-widget-react"]
+	path = 2024/08/01/grants-stack-widget-react
+	url = https://github.com/gitcoinco/grants-stack-widget-react
+[submodule "2024/08/01/onchain-summer"]
+	path = 2024/08/01/onchain-summer
+	url = https://github.com/gitcoinco/onchain-summer
+[submodule "2024/08/01/scroll-tech-frontends"]
+	path = 2024/08/01/scroll-tech-frontends
+	url = https://github.com/gitcoinco/scroll-tech-frontends
+[submodule "2024/08/01/canvas-contracts"]
+	path = 2024/08/01/canvas-contracts
+	url = https://github.com/gitcoinco/canvas-contracts
+[submodule "2024/08/01/easy-retro-pgf-filecoin"]
+	path = 2024/08/01/easy-retro-pgf-filecoin
+	url = https://github.com/gitcoinco/easy-retro-pgf-filecoin
+[submodule "2024/08/01/scroll-frontends"]
+	path = 2024/08/01/scroll-frontends
+	url = https://github.com/gitcoinco/scroll-frontends
+[submodule "2024/08/01/gitcoin-checker"]
+	path = 2024/08/01/gitcoin-checker
+	url = https://github.com/gitcoinco/gitcoin-checker
+[submodule "2024/08/01/grants-infographic"]
+	path = 2024/08/01/grants-infographic
+	url = https://github.com/gitcoinco/grants-infographic
+[submodule "2024/08/01/easy-rpgf-multiround"]
+	path = 2024/08/01/easy-rpgf-multiround
+	url = https://github.com/gitcoinco/easy-rpgf-multiround
+[submodule "2024/08/01/gtc_research"]
+	path = 2024/08/01/gtc_research
+	url = https://github.com/gitcoinco/gtc_research
+[submodule "2024/08/01/chain-data"]
+	path = 2024/08/01/chain-data
+	url = https://github.com/gitcoinco/chain-data
+[submodule "2024/08/01/ai-explorer"]
+	path = 2024/08/01/ai-explorer
+	url = https://github.com/gitcoinco/ai-explorer
