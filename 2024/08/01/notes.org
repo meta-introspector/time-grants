@@ -1,0 +1,2 @@
+
+for x in `gh repo list gitcoinco | grep -P -o '(https[\.:a-z\/_-]+)' `; do git submodule add $x; done
