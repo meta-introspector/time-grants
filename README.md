@@ -21,7 +21,7 @@ To move forward with the proposal, the following steps can be taken:
 3. Negotiate the terms of the coin swap agreement, including the swap ratio, lock-up period, and vesting schedule.
 4. Integrate the meta-introspector protocol with Project X's system to create IS(X).
 5. Host the meta-introspector system on Project X's infrastructure and leverage Project X's ecosystem to promote and utilize the introspector services.
-6. 
+
 # Subprojects
 
 This is a list of subprojects (submodules) within the "time-grants" repository. Each subproject is a separate GitHub repository that has been included as a submodule within the main "time-grants" repository.
