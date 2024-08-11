@@ -1,7 +1,7 @@
 # time-grants
 timeline of grants
 
-* Subprojects
+# Subprojects
 
 This is a list of subprojects (submodules) within the "time-grants" repository. Each subproject is a separate GitHub repository that has been included as a submodule within the main "time-grants" repository.
 
@@ -17,7 +17,7 @@ Here are some general observations and insights about these subprojects:
 
 Overall, these subprojects reflect a diverse range of interests and topics, but are generally focused on grants, funding, and open-source development.
 
-* Invitation to Contribute: Coq Proofs and Bug Bounties
+# Invitation to Contribute: Coq Proofs and Bug Bounties
 
 We're excited to invite projects to contribute to our grant program, focused on developing Coq proofs and earning bug bounties. Our goal is to foster a community-driven effort to improve the security and reliability of open-source projects, while providing a financial incentive for contributors.
 
@@ -53,9 +53,7 @@ Submit a Grant Proposal: Submit a grant proposal outlining your project's goals,
 Join our Community: Join our community of developers and researchers to collaborate on Coq proof development and bug bounty efforts.
 We look forward to receiving your grant proposals and working together to improve the security and reliability of open-source projects!
 
-we want projects to pay us to develop coq-of-X project where X is project name and each project will be introspected with self hosted tools on platform X and then we run x-introspector as a service to earn money
-
-* Coq-of-X Project: Introspection and Verification as a Service
+# Coq-of-X Project: Introspection and Verification as a Service
 
 We propose a unique opportunity for projects to partner with us in developing a Coq-of-X project, where X is the project name. Our goal is to provide a self-hosted platform for introspection and verification, utilizing x-introspector as a service to earn money.
 
@@ -101,7 +99,7 @@ By partnering with us to develop a Coq-of-X project, projects can benefit from i
 so we want to pitch to project X that they should form a grant program that would include funding for bug bounties and coq of X applied to their system, we will pitch to open source coin project X to invite the introspector into its project and fund our meta-introspector project
 
 
-* Pitch to Project X: Introducing a Grant Program for Bug Bounties and Coq of X
+# Pitch to Project X: Introducing a Grant Program for Bug Bounties and Coq of X
 
 Dear Project X Team,
 
@@ -150,7 +148,7 @@ Meta-Introspector Development:75,000 (monthly recurring)
 Total estimated cost:135,000 (monthly recurring)
 
 
-* Coin Swap and NFT Coins
+# Coin Swap and NFT Coins
 
 We're excited to propose a coin swap agreement between our projects. We've created a unique NFT coin, called "Introspector Coin" (IC), specifically for our meta-introspector project. As part of our collaboration, we propose that a portion of the payment for our services be made in the form of a coin swap, where your project X will exchange a portion of its native coins for our Introspector Coins.
 
