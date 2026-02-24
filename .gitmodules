@@ -373,3 +373,36 @@
 [submodule "2026/02/24/bitcoin-dev-grants"]
 	path = 2026/02/24/bitcoin-dev-grants
 	url = https://github.com/Velas-Commerce/bitcoin-dev-grants
+[submodule "2026/02/24/helium-wallet-names"]
+	path = 2026/02/24/helium-wallet-names
+	url = https://github.com/jthiller/helium-wallet-names
+[submodule "2026/02/24/jessmfromearth-grants"]
+	path = 2026/02/24/jessmfromearth-grants
+	url = https://github.com/JessmFromEarth/grants
+[submodule "2026/02/24/relayer-feegrant-wg"]
+	path = 2026/02/24/relayer-feegrant-wg
+	url = https://github.com/ertemann/relayer-feegrant-wg
+[submodule "2026/02/24/ertemann-grants"]
+	path = 2026/02/24/ertemann-grants
+	url = https://github.com/ertemann/Grants
+[submodule "2026/02/24/jthiller-grants"]
+	path = 2026/02/24/jthiller-grants
+	url = https://github.com/jthiller/grants
+[submodule "2026/02/24/radworks-grants-fork"]
+	path = 2026/02/24/radworks-grants-fork
+	url = https://github.com/shelbeeee/radworks-grants
+[submodule "2026/02/24/gitcoindonordata"]
+	path = 2026/02/24/gitcoindonordata
+	url = https://github.com/MasterHW/gitcoindonordata
+[submodule "2026/02/24/grants-infographic-fork"]
+	path = 2026/02/24/grants-infographic-fork
+	url = https://github.com/MasterHW/grants-infographic
+[submodule "2026/02/24/grants-stack-fork"]
+	path = 2026/02/24/grants-stack-fork
+	url = https://github.com/MasterHW/grants-stack
+[submodule "2026/02/24/osm-planet-torrent"]
+	path = 2026/02/24/osm-planet-torrent
+	url = https://github.com/meta-introspector/osm-planet-torrent
+[submodule "2026/02/24/monster-osm-quest"]
+	path = 2026/02/24/monster-osm-quest
+	url = https://github.com/jmikedupont2/monster-osm-quest
