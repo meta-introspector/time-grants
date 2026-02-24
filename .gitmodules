@@ -358,3 +358,12 @@
 [submodule "2024/08/01/ai-explorer"]
 	path = 2024/08/01/ai-explorer
 	url = https://github.com/gitcoinco/ai-explorer
+[submodule "2024/08/01/mina-delegation-program-tech"]
+	path = 2024/08/01/mina-delegation-program-tech
+	url = https://github.com/MinaFoundation/mina-delegation-program-tech
+[submodule "2024/08/01/monorepo"]
+	path = 2024/08/01/monorepo
+	url = https://github.com/clrfund/monorepo
+[submodule "2024/08/01/ipfs-devgrants"]
+	path = 2024/08/01/ipfs-devgrants
+	url = https://github.com/ipfs/devgrants
