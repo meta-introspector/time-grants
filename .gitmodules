@@ -367,3 +367,9 @@
 [submodule "2024/08/01/ipfs-devgrants"]
 	path = 2024/08/01/ipfs-devgrants
 	url = https://github.com/ipfs/devgrants
+[submodule "2026/02/24/ai-for-grant-writing"]
+	path = 2026/02/24/ai-for-grant-writing
+	url = https://github.com/eseckel/ai-for-grant-writing
+[submodule "2026/02/24/bitcoin-dev-grants"]
+	path = 2026/02/24/bitcoin-dev-grants
+	url = https://github.com/Velas-Commerce/bitcoin-dev-grants
