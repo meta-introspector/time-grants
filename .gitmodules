@@ -406,3 +406,24 @@
 [submodule "2026/02/24/monster-osm-quest"]
 	path = 2026/02/24/monster-osm-quest
 	url = https://github.com/jmikedupont2/monster-osm-quest
+[submodule "2026/02/24/ethereum-esp"]
+	path = 2026/02/24/ethereum-esp
+	url = https://github.com/ethereum/esp-website
+[submodule "2026/02/24/optimism-grants"]
+	path = 2026/02/24/optimism-grants
+	url = https://github.com/ethereum-optimism/ecosystem-contributions
+[submodule "2026/02/24/polkadot-grants"]
+	path = 2026/02/24/polkadot-grants
+	url = https://github.com/w3f/Grants-Program
+[submodule "2026/02/24/avalanche-grants"]
+	path = 2026/02/24/avalanche-grants
+	url = https://github.com/ava-labs/avalanche-docs
+[submodule "2026/02/24/solana-grants"]
+	path = 2026/02/24/solana-grants
+	url = https://github.com/solana-developers/solana-grants
+[submodule "2026/02/24/cardano-grants"]
+	path = 2026/02/24/cardano-grants
+	url = https://github.com/cardano-foundation/CIPs
+[submodule "2026/02/24/cosmos-grants"]
+	path = 2026/02/24/cosmos-grants
+	url = https://github.com/cosmos/gaia
